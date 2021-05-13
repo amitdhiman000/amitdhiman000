@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amit Dhiman
+- 👀 I’m interested in Open source, C, C++, Typescript projects.
+- 📫 reach me at: amitdhiman000@gmail.com
